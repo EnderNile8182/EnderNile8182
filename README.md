@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnderNile8182
+- 👋 Hi, I’m @EnderNile8182, also known as Rivulet Nil
 - 👀 I’m interested in platformers or rhythm based games :3
 - 📫 How to reach me: Twitter or Instagram because I don't want my discord dms to be cluttered. :P
 
