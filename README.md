@@ -43,7 +43,6 @@ You can also find me in different communities, such as the FNF one where I creat
   </small>
 </table>
 
-https://camo.githubusercontent.com/
 <!---
 EnderNile8182/EnderNile8182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
