@@ -1,9 +1,23 @@
-<h2> Hello, welcome to my profile! </h2>
+# Hello, welcome to my profile!
+
+![Hunger_Games_Nile](https://github.com/user-attachments/assets/2c320707-af21-4cce-900a-a8e44e9fb067)
+
 Hi, I’m <b>EnderNile8182</b>, or <b>Rivulet Nil</b>, but you can call me <b>Nile</b>!<br><br>
 I'm an italian artist, pixel artist, beginner animator and gamer with an interest in coding.<br>
-My personal interests are platformer games and rhythm based ones.
+
+## Interests
+As an artist, obviously art. I'm particularly interested in digital illustrations and environment art, but I also enjoy OC art (Original-Characters/Own-Characters) and pixel art.<br>
+I am also interested in animation, though I am only able to do simple sprite animations as of now.<br><br>
+
+As a gamer, I'm sucker for platformer games and rhythm-based ones. I also enjoy many coop-typed games and ones with a peculiar or cutesy artstyle/graphics.<br>
+I'd love to one day develop my own game.
+
+## Contacts
+You can contact me on Instagram (@endernile8182) or Discord (@nile8182), though the latter would be preferrable. ^^
+You can also find me in different communities, such as the FNF one where I create mods and the Geometry Dash one.
 <hr>
-<h3>My active socials</h3>
+
+## My active socials
 <table>
   <tr>
     <th width="500", height="30">Social</th>
@@ -28,11 +42,8 @@ My personal interests are platformer games and rhythm based ones.
   </tr>
   </small>
 </table>
-<hr>
 
-<h3>Contacts</h3>
-You can also contact me on Instagram (@endernile8182) or Discord (@nile8182), though the latter would be preferrable. ^^
-
+https://camo.githubusercontent.com/
 <!---
 EnderNile8182/EnderNile8182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
