@@ -1,9 +1,7 @@
 <h2> Hello, welcome to my profile! </h2>
-<p style="color:red;">
 Hi, I’m <b>EnderNile8182</b>, or <b>Rivulet Nil</b>, but you can call me <b>Nile</b>!<br><br>
 I'm an italian artist, pixel artist, beginner animator and gamer with an interest in coding.<br>
 My personal interests are platformer games and rhythm based ones.
-</p>
 <hr>
 <h3>My active socials</h3>
 <table>
